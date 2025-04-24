@@ -15,8 +15,11 @@ pip install -r requirements.txt
 
 Run the application:
 \`\`\`bash
+
 python main.py // sử dụng bằng terminal
+
 streamlit run app.py // sử dụng bằng Streamlit
+
 \`\`\`
 
 Thực hiện theo các hướng dẫn trên màn hình để:
