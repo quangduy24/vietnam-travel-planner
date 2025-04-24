@@ -16,5 +16,6 @@ vietnam_travel_planner/
 │   ├── data_loader.py       
 │   └── visualizer.py        
 └── ui/
-    ├── __init__.py
-    └── cli.py               
+│   ├── __init__.py
+│   └── cli.py               
+├── app.py
